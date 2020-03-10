@@ -40,23 +40,15 @@ Windows Intel 칩셋 노트북(HAXM 가상화 사용)
 ![3](https://user-images.githubusercontent.com/48741014/76330798-a1f5a880-6331-11ea-892c-db19045813bd.PNG)
 ![4](https://user-images.githubusercontent.com/48741014/76330785-9dc98b00-6331-11ea-9e99-65985f589ad6.PNG)
 
-### [결과사진]
+## [앱기능 설명]
+![1-1](https://user-images.githubusercontent.com/48741014/76330939-c9e50c00-6331-11ea-9c18-f78c646c134f.PNG)
+![1-2](https://user-images.githubusercontent.com/48741014/76330942-ca7da280-6331-11ea-8b26-fbca1da02b02.PNG)
+![1-3](https://user-images.githubusercontent.com/48741014/76330947-cbaecf80-6331-11ea-9153-7a4042d5d436.PNG)
+![1-4](https://user-images.githubusercontent.com/48741014/76330948-ccdffc80-6331-11ea-9230-aaa328609607.PNG)
+![1-5](https://user-images.githubusercontent.com/48741014/76330933-c81b4880-6331-11ea-9754-4c9b71583d00.PNG)
+![2-1](https://user-images.githubusercontent.com/48741014/76331058-f436c980-6331-11ea-9f3b-247f234c1d69.PNG)
+![2-2](https://user-images.githubusercontent.com/48741014/76331061-f6992380-6331-11ea-8ccd-04bd89fbe358.PNG)
 
 
 
 
-
-
-
-
-3.3. 개발절차
- - 기본 디자인 구상 및 구현
- - 로그인 페이지 구현
- - 비회원을 위한 회원가입 구현
- - FireBase 안드로이드 스튜디오 연동
- - 회원 정보 표시와 메뉴 선택을 위한 내비게이션 바 구현
- - 로그아웃 페이지 구현
- - 사용법 페이지 구현
- - 개발자 코멘터리 페이지 구현
- - 책 판매를 위한 실시간 게시글 작성 구현
- - 책 구매를 위한 실시간 댓글 서비스 구현
