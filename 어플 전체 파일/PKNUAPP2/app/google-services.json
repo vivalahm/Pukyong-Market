@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "801986250511",
+    "firebase_url": "https://pknuapp.firebaseio.com",
+    "project_id": "pknuapp",
+    "storage_bucket": "pknuapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801986250511:android:c9e0f6cfb0c0200f7be07a",
+        "android_client_info": {
+          "package_name": "pknu.it.pknuapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801986250511-s7jk4d87p38l20fqm5rdfkhjshkudl0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUtSvPVnj4XVkcvi0KUAx3seZVxNbz58g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801986250511-s7jk4d87p38l20fqm5rdfkhjshkudl0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

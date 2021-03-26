@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="pknu.it.pknuapp.Activities.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_info"
+        android:name="pknu.it.pknuapp.Activities.ui.info.infoFragment"
+        android:label="info"
+        tools:layout="@layout/fragment_info" />
+
+    <fragment
+        android:id="@+id/nav_creator"
+        android:name="pknu.it.pknuapp.Activities.ui.creator.creatorFragment"
+        android:label="creator"
+        tools:layout="@layout/fragment_creator" />
+
+    <fragment
+        android:id="@+id/nav_signout"
+        android:name="pknu.it.pknuapp.Activities.ui.signout.SignoutFragment"
+        android:label="SignOut"/>
+
+
+</navigation>
